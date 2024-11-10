@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="https://graph.org/file/58bdd27ea0c9f12984a25-c67d5c3714b4f1796c.jpg" alt="My  Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> TOM BOT </b>
 </h1>
 
 ## ⚡️Features
@@ -12,7 +12,7 @@
     - [+] ⚡️ Added `file renaming` feature ⚡️
       - super premium repo...
     - [+] ⚡️ Support 2GB + Files ⚡️
-    - [+] ⚡️ [Watch Latest Tutorial](https://youtube.com/LazyDeveloperr)  ⚡️
+    - [+] ⚡️ [Watch Latest Tutorial](https://youtube.com/DMWITHGOKUL)  ⚡️
 - [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
@@ -29,7 +29,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
+Read [this](https://telegram.dog/CINEMACCBOTUPDATES/12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -56,7 +56,7 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 * `PRIME_DOWNLOADERS`: ID of the users to which you want to give file uploading using url. Separate multiple ids by space.
 
 
-* Check [info.py](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/info.py) for more
+* Check [info.py](https://github.com/Gokulbots/GokulBotV2/blob/master/info.py) for more
 
 
 ## Deploy
@@ -126,14 +126,14 @@ python3 bot.py
 
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/CINEMACCBOTDISCUSSION)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/CINEMACCBOTUPDATES)
 
 ## Credits 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
+* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/CINEMACCBOTUPDATES)
 
 ## Thanks to 
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding amazing `url uploadig feature`, `online file streaming feature`, `file renaming feature` and keeping this `super premium repo` for `free` ❤ . Great Thanks to [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤
+ - Thank you [LazyDeveloper](https://github.com/GokulBots) for adding amazing `url uploadig feature`, `online file streaming feature`, `file renaming feature` and keeping this `super premium repo` for `free` ❤ . Great Thanks to [LazyDeveloper](https://github.com/GokulBots) for helping us in this journey ❤
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
@@ -145,7 +145,7 @@ python3 bot.py
 
 ### Note
 
-[Join Main Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper 🎁
+[Join Main Channel](https://telegram.dog/CINEMACCBOTUPDATES): LazyDeveloper 🎁
 
 
 ### 🔗 important_Links
@@ -154,15 +154,15 @@ python3 bot.py
 - [🤩 Error Handling Videos](https://www.youtube.com/playlist?list=PLZHPDcp3VkigMWoTjujScuhFLCl1jl-ah)
 - [۞ Create FILE TO LINK BOT](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
 - [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [❣️ Join Youtube](https://www.youtube.com/@LazyDeveloperr)
+- [❣️ Join Youtube](https://www.youtube.com/@DMWITHGOKUL)
 
 
 #### 🧡 Respecting... 🧡
-- Sir [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
+- Sir [🔥 LazyDeveloperr](https://github.com/GokulBots) 
 
 ### 🤩 INSPIRATION
 <a href="https://telegram.dog/LazyPrincessX_BOT">
-   <p>❣️ LazyPrincess 🔥</p>
+   <p>❣️ Gokul Bots 🔥</p>
 </a>
 
 
