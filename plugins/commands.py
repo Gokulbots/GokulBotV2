@@ -33,7 +33,7 @@ async def start(client, message):
             [
                 InlineKeyboardButton('🙆🏻 Hᴇʟᴘ 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ],[
-            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/CINEMACCBOTUPDATES)
             ],[
             InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
             ],
@@ -65,12 +65,12 @@ async def start(client, message):
             InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/CINEMACCBOTUPDATES)
             ],[
             InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
             ],[
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@LazyDeveloperr'
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@DMWITHGOKUL'
                 )
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -95,7 +95,7 @@ async def start(client, message):
             ],
              [
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@LazyDeveloperr'
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@DMWITHGOKUL'
                 )
             ]
         ]
@@ -128,13 +128,13 @@ async def start(client, message):
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
             ],
         [
-            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/real_MoviesAdda3')
+            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/CINEMACCBOTUPDATES)
         ],
         [
             InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
         ],[
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@LazyDeveloperr'
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@DMWITHGOKUL'
                 )
             ]
         ]
@@ -548,7 +548,7 @@ async def delete_all_index(bot, message):
 @Client.on_callback_query(filters.regex(r'^autofilter_delete'))
 async def delete_all_index_confirm(bot, message):
     await Media.collection.drop()
-    await message.answer('♥️ Thank You LazyDeveloper ♥️')
+    await message.answer('♥️ Thank You eveloper ♥️')
     await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
 @Client.on_message(filters.command('settings'))
