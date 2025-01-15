@@ -116,11 +116,11 @@ Here is the help for my COMMANDS."""
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
-- THIS IS AN PRIVATE PROJECT
-<a href=https://t.me/DMWITHGOKUL> OWNER 💫</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
+- 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭. 𝐓𝐨 𝐊𝐧𝐨𝐰 𝐅𝐮𝐫𝐭𝐡𝐞𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐲 𝐎𝐰𝐧𝐞𝐫
+<a href=https://t.me/DMWITHGOKUL> OWNER 💫</a> 
 
 <b>DEV:</b>
-- <a href=https://t.me/OWNER_CC_BOT> OWNER 2 💫</a> """
+- <a href=https://t.me/OWNER_CC_BOT> 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 💫</a> """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
